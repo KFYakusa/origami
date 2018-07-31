@@ -1,0 +1,65 @@
+        html,body{
+            padding: 0;
+            margin:0;
+            width: 100%;
+        }
+        main{
+            width: 100%;
+        }
+        .container-fluid{
+            margin:0;
+            padding:0;
+        }
+        section {
+            
+            width:100%;
+        }
+        h1{
+            font-family: 'Dancing Script', cursive;
+            color:#ddd;
+            
+            font-size: 100px;
+            text-align: center;
+            width:54.129%;
+            margin: 0 auto;
+            margin-top: 4vh;
+        }
+        h2{
+            font-size:65px;
+            color:#ddd;
+            text-align:center;
+            margin-top:25vh;
+            margin-left:30vh;
+            
+            font-family: 'Dancing Script', cursive;
+            margin-right:0;
+            
+        }
+        #sub1{
+            display: inline-block;
+            width:12%;
+        }
+        p{
+            width:10%;
+            display: inline;
+            font-size:200px;
+            font-family:'Dancing Script', cursive;
+            color:#ddd;
+            
+        }
+        #first{
+            background: url(../img/wallpaper_first.jpg);
+            background-attachment: fixed;
+            background-position: center;
+            height: 100vh;
+        }
+        #text{
+            background: red;
+        }
+        #second{
+            background: blue;
+            height:100vh;
+        }
+        #third{
+            background: green;
+        }
