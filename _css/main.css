@@ -64,7 +64,7 @@ p{
 }
 
 #first {
-    background: url(../imagens/wallpaper_first.jpg);
+    background: url("https://kfyakusa.github.io/origami/imagens/wallpaper_first.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -72,7 +72,7 @@ p{
 }
 
 #second {
-    background: url(../imagens/origami-blue-wallpaper.png);
+    background: url("https://kfyakusa.github.io/origami/imagens/origami-blue-wallpaper.png");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
